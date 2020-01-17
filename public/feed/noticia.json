@@ -1,9 +1,16 @@
 [
   {
-    "uid": "daily-18-dezembro-2019",
+    "uid": "pinephone-celular-de-150-dolares",
     "updateDate": "2020-01-17T00:00:00.0Z",
-    "titleText": "Relatório da Missão 17 de Dezembro de 2019",
-    "mainText": "Hoje o time da net na agile teve a sua daily normalmente, todos os colaboradores estavam presentes e sem nenhuma baixa, apenas Victor estava fora pois o mesmo está de férias, todo o time trabalhou em normalidade e o login do netnow ainda não caiu, estamos a 1 semana sem quedas de login",
+    "titleText": "PinePhone é um celular de US$ 150 que roda Linux",
+    "mainText": "Você paga US$ 150 por um smartphone e, quando o produto chega, descobre que precisa instalar um sistema operacional nele. Tudo bem para você? Se a resposta for sim, o PinePhone, da Pine64, pode ser a opção ideal para o seu perfil: o celular foi desenvolvido para rodar Linux, mas é você quem deve instalar uma das distribuições disponíveis.",
+    "redirectionUrl": "https://alexanews.azurewebsites.net/"
+  },
+  {
+    "uid": "pinephone-celular-de-150-dolares",
+    "updateDate": "2020-01-17T00:00:00.0Z",
+    "titleText": "Windows 10: Microsoft traz modo gráfico à calculadora de código aberto",
+    "mainText": "A Microsoft liberou uma atualização para participantes do programa Insider que coloca um modo gráfico na Calculadora do Windows 10: você pode plotar uma ou mais equações, analisar as variáveis e conferir mudanças em tempo real. O aplicativo, que vem pré-instalado no sistema, possui código-fonte aberto disponível no GitHub.",
     "redirectionUrl": "https://alexanews.azurewebsites.net/"
   }
 ]
