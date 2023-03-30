@@ -1,0 +1,8 @@
+{
+    "data" : [
+        {"address": "5835 spec idge", "state": "NY"},
+        {"address": "206 Stone", "state": "CT", "city": "day"},
+        {"address": "301 14 galaxy", "country": "CA"},
+        {"address": "boska", "city": "belgrade"}
+    ]
+}
